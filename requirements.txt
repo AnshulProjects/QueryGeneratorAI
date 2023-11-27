@@ -1,0 +1,2 @@
+openai==latest
+gradio==latest
